@@ -1,0 +1,18 @@
+@import "shared/variables";
+
+@import "shared/myBootstrap";
+
+body{
+    background-color:rgb(151, 69, 28);
+}
+table{
+    background-color: white;
+    width: 80%;
+}
+
+h1{
+    color:white;
+    display:flex;
+    justify-content: center;
+    padding: 2%;
+}
